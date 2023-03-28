@@ -1,2 +1,4 @@
 # microcontroladores
-Repository with my implementations of the labs and projects presented at the microcontroller discipline in my university.
+Repository with my implementations of the labs and projects presented in the microcontroller discipline at my university.
+
+The development board used in our classas was the Tiva C Series Launchpad by Texas Instruments
